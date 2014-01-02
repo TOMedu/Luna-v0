@@ -1,0 +1,2 @@
+[22-Dec-2013 06:44:01 UTC] PHP Parse error:  syntax error, unexpected '" ORDER BY RAND() LIMIT 0,1"' (T_CONSTANT_ENCAPSED_STRING) in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/intel/index.php on line 10
+[22-Dec-2013 06:44:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/intel/index.php on line 12

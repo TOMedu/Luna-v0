@@ -1,0 +1,2 @@
+[16-Oct-2013 07:56:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/api/external/index.php on line 260
+[16-Oct-2013 07:56:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/api/external/index.php on line 12

@@ -1,0 +1,2 @@
+[09-Jul-2013 17:18:22 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/api/test.php on line 6
+[09-Jul-2013 17:18:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/api/test.php on line 9

@@ -1,0 +1,69 @@
+[16-May-2013 20:06:05 UTC] PHP Parse error:  syntax error, unexpected T_BOOLEAN_OR in /home/txclanco/public_html/glorbi.com/tomedu/jarvis/exec/run.php on line 9
+[16-May-2013 20:10:37 UTC] PHP Parse error:  syntax error, unexpected T_BOOLEAN_OR in /home/txclanco/public_html/glorbi.com/tomedu/jarvis/exec/run.php on line 8
+[16-May-2013 20:10:39 UTC] PHP Parse error:  syntax error, unexpected T_BOOLEAN_OR in /home/txclanco/public_html/glorbi.com/tomedu/jarvis/exec/run.php on line 8
+[16-May-2013 20:11:10 UTC] PHP Parse error:  syntax error, unexpected T_BOOLEAN_OR in /home/txclanco/public_html/glorbi.com/tomedu/jarvis/exec/run.php on line 8
+[16-May-2013 20:42:31 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/txclanco/public_html/glorbi.com/tomedu/jarvis/exec/run.php on line 46
+[16-May-2013 20:42:56 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/txclanco/public_html/glorbi.com/tomedu/jarvis/exec/run.php on line 46
+[16-May-2013 20:45:17 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/txclanco/public_html/glorbi.com/tomedu/jarvis/exec/run.php on line 48
+[09-Jun-2013 12:42:29 UTC] PHP Parse error:  syntax error, unexpected T_IS_NOT_IDENTICAL in /home/txclanco/public_html/glorbi.com/tomedu/jarvisbeta/exec/run.php on line 40
+[09-Jun-2013 13:02:27 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/txclanco/public_html/glorbi.com/tomedu/jarvisbeta/exec/run.php on line 2
+[13-Jun-2013 23:57:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/txclanco/public_html/glorbi.com/tomedu/jarvisbeta/exec/helloworld.php on line 3
+[13-Jun-2013 23:58:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/txclanco/public_html/glorbi.com/tomedu/jarvisbeta/exec/helloworld.php on line 3
+[13-Jun-2013 23:58:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/txclanco/public_html/glorbi.com/tomedu/jarvisbeta/exec/helloworld.php on line 3
+[13-Jun-2013 23:58:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/txclanco/public_html/glorbi.com/tomedu/jarvisbeta/exec/helloworld.php on line 3
+[13-Jun-2013 23:58:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/txclanco/public_html/glorbi.com/tomedu/jarvisbeta/exec/helloworld.php on line 3
+[13-Jun-2013 23:59:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/txclanco/public_html/glorbi.com/tomedu/jarvisbeta/exec/helloworld.php on line 3
+[14-Jun-2013 00:00:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/txclanco/public_html/glorbi.com/tomedu/jarvisbeta/exec/helloworld.php on line 3
+[14-Jun-2013 00:00:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/txclanco/public_html/glorbi.com/tomedu/jarvisbeta/exec/helloworld.php on line 3
+[09-Jul-2013 17:08:08 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'txclanco'@'localhost' (using password: NO) in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 163
+[09-Jul-2013 17:08:08 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 163
+[09-Jul-2013 17:08:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 164
+[09-Jul-2013 17:29:17 UTC] PHP Parse error:  syntax error, unexpected T_IF in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 167
+[09-Jul-2013 17:35:16 UTC] PHP Warning:  file_get_contents(http://tomedu.org/lunabeta/api/music.php?c=playlist coding) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 117
+[09-Jul-2013 17:35:25 UTC] PHP Warning:  file_get_contents(http://tomedu.org/lunabeta/api/music.php?c=playlist coding) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 117
+[09-Jul-2013 17:35:49 UTC] PHP Warning:  file_get_contents(http://tomedu.org/lunabeta/api/music.php?c=playlist coding) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 117
+[08-Sep-2013 09:50:43 UTC] PHP Warning:  include(api/user.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:50:43 UTC] PHP Warning:  include(api/user.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:50:43 UTC] PHP Warning:  include(): Failed opening 'api/user.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:50:43 UTC] PHP Warning:  include(remote.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:50:43 UTC] PHP Warning:  include(remote.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:50:43 UTC] PHP Warning:  include(): Failed opening 'remote.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:50:43 UTC] PHP Fatal error:  Call to undefined function lunaGetDP() in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 133
+[08-Sep-2013 09:50:50 UTC] PHP Warning:  include(api/user.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:50:50 UTC] PHP Warning:  include(api/user.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:50:50 UTC] PHP Warning:  include(): Failed opening 'api/user.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:50:50 UTC] PHP Warning:  include(remote.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:50:50 UTC] PHP Warning:  include(remote.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:50:50 UTC] PHP Warning:  include(): Failed opening 'remote.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:50:50 UTC] PHP Fatal error:  Call to undefined function lunaGetDP() in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 133
+[08-Sep-2013 09:50:56 UTC] PHP Warning:  include(api/user.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:50:56 UTC] PHP Warning:  include(api/user.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:50:56 UTC] PHP Warning:  include(): Failed opening 'api/user.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:50:56 UTC] PHP Warning:  include(remote.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:50:56 UTC] PHP Warning:  include(remote.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:50:56 UTC] PHP Warning:  include(): Failed opening 'remote.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:50:56 UTC] PHP Fatal error:  Call to undefined function lunaGetDP() in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 133
+[08-Sep-2013 09:50:58 UTC] PHP Warning:  include(api/user.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:50:58 UTC] PHP Warning:  include(api/user.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:50:58 UTC] PHP Warning:  include(): Failed opening 'api/user.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:50:58 UTC] PHP Warning:  include(remote.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:50:58 UTC] PHP Warning:  include(remote.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:50:58 UTC] PHP Warning:  include(): Failed opening 'remote.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:50:58 UTC] PHP Fatal error:  Call to undefined function lunaGetDP() in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 133
+[08-Sep-2013 09:51:04 UTC] PHP Warning:  include(api/user.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:51:04 UTC] PHP Warning:  include(api/user.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:51:04 UTC] PHP Warning:  include(): Failed opening 'api/user.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:51:04 UTC] PHP Warning:  include(remote.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:51:04 UTC] PHP Warning:  include(remote.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:51:04 UTC] PHP Warning:  include(): Failed opening 'remote.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:51:04 UTC] PHP Fatal error:  Call to undefined function lunaGetDP() in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 133
+[08-Sep-2013 09:51:16 UTC] PHP Warning:  include(api/user.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:51:16 UTC] PHP Warning:  include(api/user.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:51:16 UTC] PHP Warning:  include(): Failed opening 'api/user.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 2
+[08-Sep-2013 09:51:16 UTC] PHP Warning:  include(remote.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:51:16 UTC] PHP Warning:  include(remote.php): failed to open stream: No such file or directory in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:51:16 UTC] PHP Warning:  include(): Failed opening 'remote.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 24
+[08-Sep-2013 09:51:16 UTC] PHP Fatal error:  Call to undefined function lunaGetDP() in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/exec/run.php on line 133

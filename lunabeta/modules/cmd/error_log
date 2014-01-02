@@ -1,0 +1,1 @@
+[08-Sep-2013 07:58:38 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/txclanco/public_html/glorbi.com/tomedu/lunabeta/modules/cmd/execute.php on line 14
